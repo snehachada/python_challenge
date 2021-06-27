@@ -45,7 +45,9 @@ print(f"Greatest Loss: {min_month} ({min_change})")
 
 # write the file in text file and w is used for replacing existing file
 PyBank = open("Analysis/output_PyBank.txt", "w")
+PyBank.write("---------------------")
 PyBank.write("Financial Analysis") 
+PyBank.write("---------------------")
 PyBank.write('\n' +"Total Months: " + str(months)) 
 PyBank.write('\n' +"Total P&L: " + str(round(total_pandl, 2)))
 PyBank.write('\n' +"Average: " + str(round(avg_change, 2))) 
