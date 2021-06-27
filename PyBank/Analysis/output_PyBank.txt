@@ -1,0 +1,6 @@
+Financial Analysis
+Total Months: 86
+Total P&L: 38382578
+Average: -2315.12
+Greatest Increase: $1926159 in the month Feb-2012
+Greatest Loss: $-2196167 in the month Sep-2013
